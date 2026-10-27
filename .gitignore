@@ -1,0 +1,7 @@
+target/
+.classpath
+.project
+.settings/
+node_modules/
+.next/
+.DS_Store
