@@ -38,7 +38,7 @@ is in Portuguese.
 | --- | --- |
 | Customers | `GET/POST /api/cliente`, `GET/PUT/DELETE /api/cliente/{cpf}` |
 | Accounts | `GET/POST /api/conta`, `GET/PUT/DELETE /api/conta/{id}` |
-| Cards | `GET/POST /api/cartao`, `DELETE /api/cartao/{id}` |
+| Cards | `GET/POST /api/cartao`, `GET/PUT/DELETE /api/cartao/{id}` |
 | Transactions | `GET/POST /api/transacao`, `GET /api/transacao/{id}` |
 
 ## Getting Started
