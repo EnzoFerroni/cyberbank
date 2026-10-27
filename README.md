@@ -48,8 +48,8 @@ Requirements: JDK 17+, Node.js 18+ and a MySQL database.
 **Back end**
 
 ```bash
-git clone https://github.com/EnzoFerroni/Projeto-CyberBank.git
-cd Projeto-CyberBank/backend
+git clone https://github.com/EnzoFerroni/cyberbank.git
+cd cyberbank/backend
 ```
 
 Point `spring.datasource.url` and `spring.datasource.username` in
